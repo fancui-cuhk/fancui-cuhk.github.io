@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Fan Cui's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,11 +13,11 @@ I am a Ph.D. student in the Department of Computer Science and Engineering at th
 
 Publications
 ======
-Bonspiel: Low Tail Latency Transactions in Geo-Distributed Databases [VLDB'25]
-*Fan Cui*, Eric Lo, Srijan Srivastava, and Ziliang Lai
+* *Bonspiel: Low Tail Latency Transactions in Geo-Distributed Databases* [VLDB'25]\
+**Fan Cui**, Eric Lo, Srijan Srivastava, and Ziliang Lai
 
-Occam's Razor for Distributed Protocols [SOCC'24]
-Ziliang Lai, *Fan Cui*, Hua Fan, Eric Lo, Wenchao Zhou, and Feifei Li
+* *Occam's Razor for Distributed Protocols* [SOCC'24]\
+Ziliang Lai, **Fan Cui**, Hua Fan, Eric Lo, Wenchao Zhou, and Feifei Li
 
 Experiences
 ======
@@ -25,12 +25,12 @@ Experiences
 
 Professional Services
 ======
-VLDB Journal Reviewer, 2025-present
-External Reviewer: ICDE 2024
+* VLDB Journal Reviewer, 2025-present
+* External Reviewer: ICDE 2024
 
 Teaching
 ======
-CSCI3160 Introduction to Database Systems: 2022 Fall, 2023 Fall
-CSCI4160 Parallel and Distributed Computing: 2023 Spring, 2024 Spring
-CSCI5600 Advanced Topics in Distributed Systems: 2024 Fall
-CMSC5735 Advanced Topics in Cloud Computing: 2023 Spring, 2024 Spring
+* CSCI3160 Introduction to Database Systems: 2022 Fall, 2023 Fall
+* CSCI4160 Parallel and Distributed Computing: 2023 Spring, 2024 Spring
+* CSCI5600 Advanced Topics in Distributed Systems: 2024 Fall
+* CMSC5735 Advanced Topics in Cloud Computing: 2023 Spring, 2024 Spring
