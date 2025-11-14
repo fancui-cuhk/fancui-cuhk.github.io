@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Fan Cui's Homepage"
+# title: "Fan Cui's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,14 +9,14 @@ redirect_from:
 
 Biography
 ======
-I am a Ph.D. student in the Department of Computer Science and Engineering at the Chinese University of Hong Kong, supervised by Prof. Eric Lo. My research interests include distributed databases, serverless computing, and vector databases. Previously, I got my B.S. degree in Computer Science from Chu Kochen Honors College, Zhejiang University, supervised by Prof. Chen Ling.
+I am a fourth-year Ph.D. student in the Department of Computer Science and Engineering at the Chinese University of Hong Kong, supervised by Prof. Eric Lo. My research interests include distributed databases, serverless computing, and vector databases. Previously, I got my B.S. degree in Computer Science from Chu Kochen Honors College, Zhejiang University, supervised by Prof. Ling Chen.
 
 Publications
 ======
-* *Bonspiel: Low Tail Latency Transactions in Geo-Distributed Databases* [VLDB'25]\
+* [Bonspiel: Low Tail Latency Transactions in Geo-Distributed Databases](https://dl.acm.org/doi/10.14778/3749646.3749658) [VLDB'25]\
 **Fan Cui**, Eric Lo, Srijan Srivastava, and Ziliang Lai
 
-* *Occam's Razor for Distributed Protocols* [SOCC'24]\
+* [Occam's Razor for Distributed Protocols](https://dl.acm.org/doi/10.1145/3698038.3698514) [SOCC'24]\
 Ziliang Lai, **Fan Cui**, Hua Fan, Eric Lo, Wenchao Zhou, and Feifei Li
 
 Experiences
