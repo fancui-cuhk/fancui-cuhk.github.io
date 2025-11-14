@@ -1,3 +1,10 @@
+permalink: /
+title: "Fan Cui's Homepage"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+
 Biography
 ======
 I am a Ph.D. student in the Department of Computer Science and Engineering at the Chinese University of Hong Kong, supervised by Prof. Eric Lo. My research interests include distributed databases, serverless computing, and vector databases. Previously, I got my B.S. degree in Computer Science from Chu Kochen Honors College, Zhejiang University, supervised by Prof. Chen Ling.
