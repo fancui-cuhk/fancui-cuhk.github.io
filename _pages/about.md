@@ -9,7 +9,7 @@ redirect_from:
 
 Biography
 ======
-I am a fourth-year Ph.D. student in the Department of Computer Science and Engineering at the Chinese University of Hong Kong, supervised by Prof. Eric Lo. My research interests include distributed databases, serverless computing, and vector databases. Previously, I got my B.S. degree in Computer Science from Chu Kochen Honors College, Zhejiang University, supervised by Prof. Ling Chen.
+I am a fourth-year Ph.D. student in the Department of Computer Science and Engineering at the Chinese University of Hong Kong, supervised by Prof. Eric Lo. My research interests include distributed databases, serverless computing, and vector databases. Previously, I got my M.S. degree from University College London and B.S. degree in Computer Science from Chu Kochen Honors College, Zhejiang University, supervised by Prof. Ling Chen.
 
 Publications
 ======
