@@ -21,7 +21,7 @@ Ziliang Lai, **Fan Cui**, Hua Fan, Eric Lo, Wenchao Zhou, and Feifei Li
 
 Experiences
 ======
-* Aug 2024 - Present: Research Intern, Alibaba Cloud
+* Mar 2025 - Present: Research Intern, Alibaba Cloud
 
 Professional Services
 ======
@@ -33,4 +33,4 @@ Teaching
 * CSCI3160 Introduction to Database Systems: 2022 Fall, 2023 Fall
 * CSCI4160 Parallel and Distributed Computing: 2023 Spring, 2024 Spring
 * CSCI5600 Advanced Topics in Distributed Systems: 2024 Fall
-* CMSC5735 Advanced Topics in Cloud Computing: 2023 Spring, 2024 Spring
+* CMSC5735 Advanced Topics in Cloud Computing: 2024 Spring, 2025 Spring, 2026 Spring
